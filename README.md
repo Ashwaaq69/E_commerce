@@ -1,11 +1,15 @@
 # E_commerce
 
-this is an e-commerce React application that allows users to browse and purchase products in the categories of Shop, Men, Women, and Kids. Users can add items to their cart and proceed to checkout.
+is is an e-commerce React application that allows users to browse and purchase products in the categories of Shop, Men, Women, and Kids. Users can add items to their cart and proceed to checkout.
 
- Product Details: Users can view detailed information about a specific product, including its description, price, and availability.
+## Features
+
+- Product Listing: Users can view and browse products in the Shop, Men, Women, and Kids categories.
+- Product Details: Users can view detailed information about a specific product, including its description, price, and availability.
 - Add to Cart: Users can add products to their shopping cart.
-- Cart Management: Users can view the items in their cart, remove items.
+- Cart Management: Users can view the items in their cart, update quantities, and remove items.
 - Checkout: Users can proceed to the checkout process to complete their purchase.
+
 
 ## Installation
 
